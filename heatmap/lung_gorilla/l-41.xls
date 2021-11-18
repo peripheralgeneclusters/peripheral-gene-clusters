@@ -1,0 +1,3 @@
+GO Term	Description	P-value	FDR q-value	Enrichment	N	B	n	b	Genes
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	7.98E-4	1E0	8.49	679	16	20	4	[MECP2  -  methyl cpg binding protein 2 (rett syndrome), CLASP1  -  cytoplasmic linker associated protein 1, CEP290  -  centrosomal protein 290kda, CEP135  -  centrosomal protein 135kda]
+GO:1902749	regulation of cell cycle G2/M phase transition	7.98E-4	1E0	8.49	679	16	20	4	[MECP2  -  methyl cpg binding protein 2 (rett syndrome), CLASP1  -  cytoplasmic linker associated protein 1, CEP290  -  centrosomal protein 290kda, CEP135  -  centrosomal protein 135kda]
