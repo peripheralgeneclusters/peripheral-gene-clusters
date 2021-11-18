@@ -1,0 +1,5 @@
+GO Term	Description	P-value	FDR q-value	Enrichment	N	B	n	b	Genes
+GO:2001028	positive regulation of endothelial cell chemotaxis	3.34E-4	1E0	52.79	739	2	14	2	[SEMA5A  -  sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (tm) and short cytoplasmic domain, (semaphorin) 5a, MET  -  met proto-oncogene]
+GO:2001026	regulation of endothelial cell chemotaxis	9.9E-4	1E0	35.19	739	3	14	2	[SEMA5A  -  sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (tm) and short cytoplasmic domain, (semaphorin) 5a, MET  -  met proto-oncogene]
+GO:0003382	epithelial cell morphogenesis	9.9E-4	1E0	35.19	739	3	14	2	[AR  -  androgen receptor, MET  -  met proto-oncogene]
+GO:0050918	positive chemotaxis	9.9E-4	1E0	35.19	739	3	14	2	[SEMA5A  -  sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (tm) and short cytoplasmic domain, (semaphorin) 5a, MET  -  met proto-oncogene]

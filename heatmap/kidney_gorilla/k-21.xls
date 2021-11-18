@@ -1,0 +1,2 @@
+GO Term	Description	P-value	FDR q-value	Enrichment	N	B	n	b	Genes
+GO:0034641	cellular nitrogen compound metabolic process	1.87E-4	1E0	3.68	714	141	11	8	[IMMP2L  -  imp2 inner mitochondrial membrane peptidase-like (s. cerevisiae), BST1  -  bone marrow stromal cell antigen 1, APH1A  -  aph1a gamma secretase subunit, ELP4  -  elongator acetyltransferase complex subunit 4, MTOR  -  mechanistic target of rapamycin (serine/threonine kinase), NFE2L3  -  nuclear factor (erythroid-derived 2)-like 3, GPHN  -  gephyrin, TMLHE  -  trimethyllysine hydroxylase, epsilon]

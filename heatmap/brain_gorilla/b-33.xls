@@ -1,0 +1,4 @@
+GO Term	Description	P-value	FDR q-value	Enrichment	N	B	n	b	Genes
+GO:0030318	melanocyte differentiation	2.02E-4	1E0	67.18	739	2	11	2	[MEF2C  -  myocyte enhancer factor 2c, MYO5A  -  myosin va (heavy chain 12, myoxin)]
+GO:1904752	regulation of vascular associated smooth muscle cell migration	2.02E-4	6.87E-1	67.18	739	2	11	2	[MEF2C  -  myocyte enhancer factor 2c, DOCK4  -  dedicator of cytokinesis 4]
+GO:0050931	pigment cell differentiation	2.02E-4	4.58E-1	67.18	739	2	11	2	[MEF2C  -  myocyte enhancer factor 2c, MYO5A  -  myosin va (heavy chain 12, myoxin)]

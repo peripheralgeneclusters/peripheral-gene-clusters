@@ -1,0 +1,3 @@
+GO Term	Description	P-value	FDR q-value	Enrichment	N	B	n	b	Genes
+GO:0032729	positive regulation of interferon-gamma production	1.89E-4	1E0	8.40	739	4	88	4	[HLA-A  -  major histocompatibility complex, class i, a, SLC7A5  -  solute carrier family 7 (amino acid transporter light chain, l system), member 5, HRAS  -  harvey rat sarcoma viral oncogene homolog, CD276  -  cd276 molecule]
+GO:0032649	regulation of interferon-gamma production	8.59E-4	1E0	6.72	739	5	88	4	[HLA-A  -  major histocompatibility complex, class i, a, SLC7A5  -  solute carrier family 7 (amino acid transporter light chain, l system), member 5, HRAS  -  harvey rat sarcoma viral oncogene homolog, CD276  -  cd276 molecule]
