@@ -1,0 +1,8 @@
+GO term	Description	P-value	FDR q-value	Enrichment (N, B, n, b)	Genes
+GO:1900046	regulation of hemostasis	2.25E-4	1E0	6.14 (737,6,100,5)	[+] Show genes
+GO:0030193	regulation of blood coagulation	2.25E-4	7.54E-1	6.14 (737,6,100,5)	[+] Show genes
+GO:0010632	regulation of epithelial cell migration	5.11E-4	1E0	3.32 (737,20,100,9)	[+] Show genes
+GO:0050818	regulation of coagulation	7.04E-4	1E0	5.26 (737,7,100,5)	[+] Show genes
+GO:0010595	positive regulation of endothelial cell migration	7.2E-4	9.64E-1	4.42 (737,10,100,6)	[+] Show genes
+GO:1904018	positive regulation of vasculature development	7.2E-4	8.04E-1	4.42 (737,10,100,6)	[+] Show genes
+GO:0045766	positive regulation of angiogenesis	7.2E-4	6.89E-1	4.42 (737,10,100,6)	[+] Show genes
