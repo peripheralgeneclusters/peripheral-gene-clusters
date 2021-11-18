@@ -1,0 +1,142 @@
+GO term	Description	P-value	FDR q-value	Enrichment (N, B, n, b)	Genes
+GO:0006325	chromatin organization	1.05E-14	7.05E-11	2.42 (737,75,211,52)	[+] Show genes
+GO:0090304	nucleic acid metabolic process	4.85E-12	1.62E-8	2.05 (737,102,211,60)	[+] Show genes
+GO:0043170	macromolecule metabolic process	1.75E-11	3.91E-8	1.52 (737,272,211,118)	[+] Show genes
+GO:0044237	cellular metabolic process	3.05E-11	5.11E-8	1.42 (737,334,211,136)	[+] Show genes
+GO:0044260	cellular macromolecule metabolic process	5.33E-11	7.14E-8	1.56 (737,237,211,106)	[+] Show genes
+GO:0006259	DNA metabolic process	5.95E-11	6.64E-8	2.62 (737,44,211,33)	[+] Show genes
+GO:0044238	primary metabolic process	7.01E-11	6.7E-8	1.44 (737,316,211,130)	[+] Show genes
+GO:2000112	regulation of cellular macromolecule biosynthetic process	9.33E-11	7.81E-8	1.59 (737,220,211,100)	[+] Show genes
+GO:0009889	regulation of biosynthetic process	1.14E-10	8.46E-8	1.55 (737,236,211,105)	[+] Show genes
+GO:0006139	nucleobase-containing compound metabolic process	1.28E-10	8.55E-8	1.86 (737,126,211,67)	[+] Show genes
+GO:0016569	covalent chromatin modification	1.46E-10	8.88E-8	2.49 (737,49,211,35)	[+] Show genes
+GO:0031326	regulation of cellular biosynthetic process	1.69E-10	9.41E-8	1.55 (737,234,211,104)	[+] Show genes
+GO:0008152	metabolic process	3.63E-10	1.87E-7	1.38 (737,349,211,138)	[+] Show genes
+GO:0016570	histone modification	4.46E-10	2.13E-7	2.51 (737,46,211,33)	[+] Show genes
+GO:0006807	nitrogen compound metabolic process	5.44E-10	2.43E-7	1.42 (737,309,211,126)	[+] Show genes
+GO:0071704	organic substance metabolic process	7.5E-10	3.14E-7	1.39 (737,334,211,133)	[+] Show genes
+GO:0010556	regulation of macromolecule biosynthetic process	7.87E-10	3.1E-7	1.55 (737,226,211,100)	[+] Show genes
+GO:0034641	cellular nitrogen compound metabolic process	1.45E-9	5.39E-7	1.73 (737,145,211,72)	[+] Show genes
+GO:0046483	heterocycle metabolic process	2.09E-9	7.36E-7	1.77 (737,132,211,67)	[+] Show genes
+GO:0010468	regulation of gene expression	2.24E-9	7.5E-7	1.49 (737,248,211,106)	[+] Show genes
+GO:0019219	regulation of nucleobase-containing compound metabolic process	2.32E-9	7.41E-7	1.53 (737,223,211,98)	[+] Show genes
+GO:0006281	DNA repair	5.16E-9	1.57E-6	3.04 (737,23,211,20)	[+] Show genes
+GO:0010564	regulation of cell cycle process	1.37E-8	3.99E-6	2.31 (737,50,211,33)	[+] Show genes
+GO:0080090	regulation of primary metabolic process	1.41E-8	3.95E-6	1.39 (737,310,211,123)	[+] Show genes
+GO:0019222	regulation of metabolic process	1.44E-8	3.85E-6	1.36 (737,334,211,130)	[+] Show genes
+GO:0060255	regulation of macromolecule metabolic process	3.23E-8	8.31E-6	1.37 (737,313,211,123)	[+] Show genes
+GO:0031323	regulation of cellular metabolic process	3.23E-8	8.01E-6	1.37 (737,313,211,123)	[+] Show genes
+GO:0043412	macromolecule modification	4.21E-8	1.01E-5	1.58 (737,177,211,80)	[+] Show genes
+GO:0007346	regulation of mitotic cell cycle	4.92E-8	1.14E-5	2.33 (737,45,211,30)	[+] Show genes
+GO:0051726	regulation of cell cycle	6.12E-8	1.37E-5	1.98 (737,76,211,43)	[+] Show genes
+GO:0051252	regulation of RNA metabolic process	7.11E-8	1.53E-5	1.50 (737,212,211,91)	[+] Show genes
+GO:0006974	cellular response to DNA damage stimulus	7.48E-8	1.56E-5	2.42 (737,39,211,27)	[+] Show genes
+GO:0006355	regulation of transcription, DNA-templated	7.81E-8	1.59E-5	1.52 (737,200,211,87)	[+] Show genes
+GO:0051171	regulation of nitrogen compound metabolic process	8.29E-8	1.63E-5	1.37 (737,303,211,119)	[+] Show genes
+GO:0018205	peptidyl-lysine modification	1E-7	1.92E-5	2.59 (737,31,211,23)	[+] Show genes
+GO:0033044	regulation of chromosome organization	1E-7	1.86E-5	2.59 (737,31,211,23)	[+] Show genes
+GO:0009890	negative regulation of biosynthetic process	1.38E-7	2.49E-5	1.76 (737,109,211,55)	[+] Show genes
+GO:0051172	negative regulation of nitrogen compound metabolic process	1.38E-7	2.43E-5	1.61 (737,154,211,71)	[+] Show genes
+GO:1903506	regulation of nucleic acid-templated transcription	1.45E-7	2.49E-5	1.50 (737,202,211,87)	[+] Show genes
+GO:0070647	protein modification by small protein conjugation or removal	1.8E-7	3.01E-5	2.21 (737,49,211,31)	[+] Show genes
+GO:0031327	negative regulation of cellular biosynthetic process	1.85E-7	3.03E-5	1.76 (737,107,211,54)	[+] Show genes
+GO:2001141	regulation of RNA biosynthetic process	1.96E-7	3.13E-5	1.50 (737,203,211,87)	[+] Show genes
+GO:0031324	negative regulation of cellular metabolic process	2.74E-7	4.26E-5	1.59 (737,156,211,71)	[+] Show genes
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process	3.35E-7	5.1E-5	1.76 (737,103,211,52)	[+] Show genes
+GO:0006725	cellular aromatic compound metabolic process	3.39E-7	5.05E-5	1.61 (737,145,211,67)	[+] Show genes
+GO:0010558	negative regulation of macromolecule biosynthetic process	3.78E-7	5.5E-5	1.75 (737,106,211,53)	[+] Show genes
+GO:0010605	negative regulation of macromolecule metabolic process	5.47E-7	7.79E-5	1.55 (737,164,211,73)	[+] Show genes
+GO:0022402	cell cycle process	6.71E-7	9.36E-5	1.95 (737,68,211,38)	[+] Show genes
+GO:0033554	cellular response to stress	6.71E-7	9.17E-5	1.95 (737,68,211,38)	[+] Show genes
+GO:1902275	regulation of chromatin organization	7.57E-7	1.01E-4	2.73 (737,23,211,18)	[+] Show genes
+GO:0009892	negative regulation of metabolic process	7.58E-7	9.95E-5	1.53 (737,171,211,75)	[+] Show genes
+GO:0006464	cellular protein modification process	1.03E-6	1.32E-4	1.53 (737,169,211,74)	[+] Show genes
+GO:0036211	protein modification process	1.03E-6	1.3E-4	1.53 (737,169,211,74)	[+] Show genes
+GO:2001252	positive regulation of chromosome organization	1.21E-6	1.5E-4	3.06 (737,16,211,14)	[+] Show genes
+GO:0010638	positive regulation of organelle organization	1.29E-6	1.57E-4	2.17 (737,45,211,28)	[+] Show genes
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process	1.36E-6	1.62E-4	1.73 (737,101,211,50)	[+] Show genes
+GO:0044267	cellular protein metabolic process	1.37E-6	1.61E-4	1.50 (737,179,211,77)	[+] Show genes
+GO:0010629	negative regulation of gene expression	2.25E-6	2.6E-4	1.64 (737,119,211,56)	[+] Show genes
+GO:1901360	organic cyclic compound metabolic process	4.53E-6	5.13E-4	1.52 (737,156,211,68)	[+] Show genes
+GO:0033043	regulation of organelle organization	5.79E-6	6.46E-4	1.77 (737,83,211,42)	[+] Show genes
+GO:0031056	regulation of histone modification	5.91E-6	6.49E-4	2.76 (737,19,211,15)	[+] Show genes
+GO:0043632	modification-dependent macromolecule catabolic process	6.27E-6	6.77E-4	2.66 (737,21,211,16)	[+] Show genes
+GO:0006511	ubiquitin-dependent protein catabolic process	6.27E-6	6.67E-4	2.66 (737,21,211,16)	[+] Show genes
+GO:0044772	mitotic cell cycle phase transition	6.27E-6	6.56E-4	2.66 (737,21,211,16)	[+] Show genes
+GO:0019941	modification-dependent protein catabolic process	6.27E-6	6.46E-4	2.66 (737,21,211,16)	[+] Show genes
+GO:0032446	protein modification by small protein conjugation	6.78E-6	6.88E-4	2.23 (737,36,211,23)	[+] Show genes
+GO:1903047	mitotic cell cycle process	8.16E-6	8.15E-4	2.04 (737,48,211,28)	[+] Show genes
+GO:0006996	organelle organization	8.17E-6	8.04E-4	1.66 (737,103,211,49)	[+] Show genes
+GO:0016567	protein ubiquitination	9.59E-6	9.31E-4	2.29 (737,32,211,21)	[+] Show genes
+GO:0044265	cellular macromolecule catabolic process	9.59E-6	9.17E-4	2.29 (737,32,211,21)	[+] Show genes
+GO:0006357	regulation of transcription by RNA polymerase II	1.05E-5	9.88E-4	1.53 (737,144,211,63)	[+] Show genes
+GO:1901990	regulation of mitotic cell cycle phase transition	1.29E-5	1.2E-3	2.37 (737,28,211,19)	[+] Show genes
+GO:1901987	regulation of cell cycle phase transition	1.29E-5	1.18E-3	2.37 (737,28,211,19)	[+] Show genes
+GO:0032269	negative regulation of cellular protein metabolic process	1.37E-5	1.24E-3	1.86 (737,64,211,34)	[+] Show genes
+GO:0043414	macromolecule methylation	1.71E-5	1.53E-3	2.54 (737,22,211,16)	[+] Show genes
+GO:0044770	cell cycle phase transition	1.71E-5	1.51E-3	2.54 (737,22,211,16)	[+] Show genes
+GO:0040029	regulation of gene expression, epigenetic	1.76E-5	1.53E-3	2.62 (737,20,211,15)	[+] Show genes
+GO:0071840	cellular component organization or biogenesis	1.82E-5	1.56E-3	1.30 (737,302,211,112)	[+] Show genes
+GO:0019538	protein metabolic process	2.02E-5	1.71E-3	1.42 (737,192,211,78)	[+] Show genes
+GO:0016043	cellular component organization	2.99E-5	2.5E-3	1.29 (737,301,211,111)	[+] Show genes
+GO:0045787	positive regulation of cell cycle	3.73E-5	3.09E-3	2.38 (737,25,211,17)	[+] Show genes
+GO:0043543	protein acylation	3.82E-5	3.12E-3	2.96 (737,13,211,11)	[+] Show genes
+GO:0006473	protein acetylation	3.82E-5	3.08E-3	2.96 (737,13,211,11)	[+] Show genes
+GO:0051052	regulation of DNA metabolic process	4.2E-5	3.35E-3	2.43 (737,23,211,16)	[+] Show genes
+GO:0051603	proteolysis involved in cellular protein catabolic process	4.2E-5	3.31E-3	2.43 (737,23,211,16)	[+] Show genes
+GO:0006396	RNA processing	4.6E-5	3.58E-3	2.49 (737,21,211,15)	[+] Show genes
+GO:0006479	protein methylation	4.89E-5	3.76E-3	2.67 (737,17,211,13)	[+] Show genes
+GO:0008213	protein alkylation	4.89E-5	3.72E-3	2.67 (737,17,211,13)	[+] Show genes
+GO:0044419	interspecies interaction between organisms	5.01E-5	3.77E-3	1.98 (737,44,211,25)	[+] Show genes
+GO:0018193	peptidyl-amino acid modification	5.6E-5	4.17E-3	1.80 (737,62,211,32)	[+] Show genes
+GO:0010608	posttranscriptional regulation of gene expression	8.04E-5	5.92E-3	2.28 (737,26,211,17)	[+] Show genes
+GO:0051276	chromosome organization	8.04E-5	5.85E-3	2.28 (737,26,211,17)	[+] Show genes
+GO:0051253	negative regulation of RNA metabolic process	8.37E-5	6.02E-3	1.61 (737,93,211,43)	[+] Show genes
+GO:0032259	methylation	9.4E-5	6.69E-3	2.33 (737,24,211,16)	[+] Show genes
+GO:0031400	negative regulation of protein modification process	1.09E-4	7.68E-3	2.14 (737,31,211,19)	[+] Show genes
+GO:0006475	internal protein amino acid acetylation	1.17E-4	8.18E-3	2.91 (737,12,211,10)	[+] Show genes
+GO:0045652	regulation of megakaryocyte differentiation	1.17E-4	8.09E-3	2.91 (737,12,211,10)	[+] Show genes
+GO:0018394	peptidyl-lysine acetylation	1.17E-4	8.01E-3	2.91 (737,12,211,10)	[+] Show genes
+GO:0018393	internal peptidyl-lysine acetylation	1.17E-4	7.93E-3	2.91 (737,12,211,10)	[+] Show genes
+GO:0016573	histone acetylation	1.17E-4	7.85E-3	2.91 (737,12,211,10)	[+] Show genes
+GO:0017148	negative regulation of translation	1.17E-4	7.77E-3	2.91 (737,12,211,10)	[+] Show genes
+GO:0032268	regulation of cellular protein metabolic process	1.23E-4	8.09E-3	1.46 (737,141,211,59)	[+] Show genes
+GO:0016032	viral process	1.28E-4	8.3E-3	2.04 (737,36,211,21)	[+] Show genes
+GO:0044403	symbiont process	1.28E-4	8.22E-3	2.04 (737,36,211,21)	[+] Show genes
+GO:0051301	cell division	1.31E-4	8.38E-3	2.52 (737,18,211,13)	[+] Show genes
+GO:0016571	histone methylation	1.37E-4	8.63E-3	2.62 (737,16,211,12)	[+] Show genes
+GO:0032886	regulation of microtubule-based process	1.37E-4	8.55E-3	2.62 (737,16,211,12)	[+] Show genes
+GO:0009057	macromolecule catabolic process	2.2E-4	1.36E-2	1.98 (737,37,211,21)	[+] Show genes
+GO:0051248	negative regulation of protein metabolic process	2.3E-4	1.41E-2	1.67 (737,71,211,34)	[+] Show genes
+GO:0016070	RNA metabolic process	2.42E-4	1.47E-2	1.72 (737,63,211,31)	[+] Show genes
+GO:1902679	negative regulation of RNA biosynthetic process	2.53E-4	1.53E-2	1.59 (737,88,211,40)	[+] Show genes
+GO:1903507	negative regulation of nucleic acid-templated transcription	2.53E-4	1.51E-2	1.59 (737,88,211,40)	[+] Show genes
+GO:0051246	regulation of protein metabolic process	2.54E-4	1.51E-2	1.42 (737,150,211,61)	[+] Show genes
+GO:0006417	regulation of translation	2.71E-4	1.59E-2	2.33 (737,21,211,14)	[+] Show genes
+GO:0090068	positive regulation of cell cycle process	3.11E-4	1.81E-2	2.39 (737,19,211,13)	[+] Show genes
+GO:1905269	positive regulation of chromatin organization	3.54E-4	2.04E-2	2.86 (737,11,211,9)	[+] Show genes
+GO:0007051	spindle organization	3.54E-4	2.02E-2	2.86 (737,11,211,9)	[+] Show genes
+GO:0018022	peptidyl-lysine methylation	3.74E-4	2.12E-2	2.56 (737,15,211,11)	[+] Show genes
+GO:0034968	histone lysine methylation	3.74E-4	2.1E-2	2.56 (737,15,211,11)	[+] Show genes
+GO:0070507	regulation of microtubule cytoskeleton organization	3.74E-4	2.09E-2	2.56 (737,15,211,11)	[+] Show genes
+GO:2001251	negative regulation of chromosome organization	3.81E-4	2.11E-2	2.69 (737,13,211,10)	[+] Show genes
+GO:0031060	regulation of histone methylation	3.81E-4	2.09E-2	2.69 (737,13,211,10)	[+] Show genes
+GO:0045892	negative regulation of transcription, DNA-templated	4.43E-4	2.41E-2	1.57 (737,87,211,39)	[+] Show genes
+GO:0034470	ncRNA processing	5.23E-4	2.82E-2	3.49 (737,6,211,6)	[+] Show genes
+GO:1904837	beta-catenin-TCF complex assembly	5.23E-4	2.8E-2	3.49 (737,6,211,6)	[+] Show genes
+GO:0006289	nucleotide-excision repair	5.23E-4	2.78E-2	3.49 (737,6,211,6)	[+] Show genes
+GO:0010628	positive regulation of gene expression	5.44E-4	2.87E-2	1.42 (737,138,211,56)	[+] Show genes
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	5.58E-4	2.92E-2	1.44 (737,126,211,52)	[+] Show genes
+GO:1901564	organonitrogen compound metabolic process	6.4E-4	3.32E-2	1.28 (737,237,211,87)	[+] Show genes
+GO:0007049	cell cycle	6.63E-4	3.42E-2	2.27 (737,20,211,13)	[+] Show genes
+GO:0032479	regulation of type I interferon production	8.87E-4	4.53E-2	3.06 (737,8,211,7)	[+] Show genes
+GO:0032481	positive regulation of type I interferon production	8.87E-4	4.5E-2	3.06 (737,8,211,7)	[+] Show genes
+GO:2000756	regulation of peptidyl-lysine acetylation	8.87E-4	4.46E-2	3.06 (737,8,211,7)	[+] Show genes
+GO:0031062	positive regulation of histone methylation	8.87E-4	4.43E-2	3.06 (737,8,211,7)	[+] Show genes
+GO:1901983	regulation of protein acetylation	8.87E-4	4.4E-2	3.06 (737,8,211,7)	[+] Show genes
+GO:0051053	negative regulation of DNA metabolic process	8.87E-4	4.36E-2	3.06 (737,8,211,7)	[+] Show genes
+GO:0035065	regulation of histone acetylation	8.87E-4	4.33E-2	3.06 (737,8,211,7)	[+] Show genes
+GO:0010389	regulation of G2/M transition of mitotic cell cycle	8.96E-4	4.35E-2	2.40 (737,16,211,11)	[+] Show genes
+GO:1902749	regulation of cell cycle G2/M phase transition	8.96E-4	4.32E-2	2.40 (737,16,211,11)	[+] Show genes
+GO:0045931	positive regulation of mitotic cell cycle	8.96E-4	4.29E-2	2.40 (737,16,211,11)	[+] Show genes
+GO:0034249	negative regulation of cellular amide metabolic process	9.99E-4	4.75E-2	2.49 (737,14,211,10)	[+] Show genes

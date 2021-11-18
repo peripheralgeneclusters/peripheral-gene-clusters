@@ -1,0 +1,10 @@
+GO term	Description	P-value	FDR q-value	Enrichment (N, B, n, b)	Genes
+GO:1902531	regulation of intracellular signal transduction	1.57E-4	1E0	1.87 (737,109,105,29)	[+] Show genes
+GO:0032944	regulation of mononuclear cell proliferation	1.9E-4	6.34E-1	4.01 (737,14,105,8)	[+] Show genes
+GO:0070663	regulation of leukocyte proliferation	1.9E-4	4.23E-1	4.01 (737,14,105,8)	[+] Show genes
+GO:0050670	regulation of lymphocyte proliferation	1.9E-4	3.17E-1	4.01 (737,14,105,8)	[+] Show genes
+GO:0050852	T cell receptor signaling pathway	2.87E-4	3.85E-1	5.85 (737,6,105,5)	[+] Show genes
+GO:0032946	positive regulation of mononuclear cell proliferation	9.47E-4	1E0	4.21 (737,10,105,6)	[+] Show genes
+GO:0070665	positive regulation of leukocyte proliferation	9.47E-4	9.06E-1	4.21 (737,10,105,6)	[+] Show genes
+GO:0050671	positive regulation of lymphocyte proliferation	9.47E-4	7.93E-1	4.21 (737,10,105,6)	[+] Show genes
+GO:0042129	regulation of T cell proliferation	9.47E-4	7.05E-1	4.21 (737,10,105,6)	[+] Show genes
